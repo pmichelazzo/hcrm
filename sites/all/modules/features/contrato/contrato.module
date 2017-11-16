@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Contrato feature.
+ */
+
+include_once 'contrato.features.inc';

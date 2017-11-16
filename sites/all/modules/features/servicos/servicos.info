@@ -1,0 +1,12 @@
+name = Servicos
+core = 7.x
+package = Hostcare
+dependencies[] = features
+dependencies[] = number
+dependencies[] = text
+features[features_api][] = api:2
+features[field_base][] = field_dec_sv_01
+features[field_base][] = field_descricao
+features[field_instance][] = node-servicos-field_dec_sv_01
+features[field_instance][] = node-servicos-field_descricao
+features[node][] = servicos

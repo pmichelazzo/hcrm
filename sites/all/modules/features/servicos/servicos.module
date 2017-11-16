@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Servicos feature.
+ */
+
+include_once 'servicos.features.inc';
